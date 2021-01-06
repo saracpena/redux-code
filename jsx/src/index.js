@@ -1,5 +1,5 @@
 // Import the React and ReactDOM libraries
-import React from 'react';
+import React from 'react'; // 'import' statement pull code from dependancy or other file in project
 import ReactDOM from 'react-dom';
 
 // Create a react component
